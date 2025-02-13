@@ -1,6 +1,6 @@
 ## Git Hidden Folder
 
-There is a hidden folder called `.git` which tells you that our project is a git repo.
+There is a hidden folder called `.git` which tells you that our project is a 
 
 If we wanted to create a git repo in a new project we' create the folder and the initalize that repo using `git init`
 
